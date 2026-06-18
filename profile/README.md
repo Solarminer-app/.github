@@ -1,4 +1,4 @@
-# ☀️ Solar Miner App
+# ☀️ SolarMiner™ App
 
 > **Stop selling cheap electricity. Start mining smarter.**  
 > Automate your Bitcoin ASICs to perfectly match your solar surplus.
