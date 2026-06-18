@@ -60,4 +60,3 @@ For detailed installation instructions, API documentation, and Modbus configurat
 ***
 
 *Built for Miners. Local First. Non-Custodial. Bitcoin Native.*
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
