@@ -1,2 +1,1 @@
 # .github
-What is solarminer?
